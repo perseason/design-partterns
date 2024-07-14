@@ -11,6 +11,7 @@
     <modules>
         <module>design-patterns-observer</module>
         <module>design-patterns-strategy</module>
+        <module>design-patterns-decorator</module>
     </modules>
 
     <properties>
